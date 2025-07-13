@@ -2,7 +2,6 @@
 
 A fully offline Swift-based chatbot app for iOS. This project showcases how to build a lightweight, rule-based chatbot using `SwiftUI`, with zero dependencies or internet usage. All responses are handled locally with predefined logic.
 
----
 
 ## 🚀 Features
 
@@ -12,7 +11,6 @@ A fully offline Swift-based chatbot app for iOS. This project showcases how to b
 - ✅ Lightweight and Fast
 - ✅ Easily Extendable Bot Logic
 
----
 
 ## 📱 Screens
 
@@ -21,7 +19,6 @@ A fully offline Swift-based chatbot app for iOS. This project showcases how to b
 - Chat bubbles (user vs. bot)
 - System-like layout with navigation
 
----
 
 ## 🛠 Tech Stack
 
@@ -30,7 +27,6 @@ A fully offline Swift-based chatbot app for iOS. This project showcases how to b
 - **MVVM Architecture**
 - **No Dependencies**
 
----
 
 ## 📦 Project Structure
 
@@ -39,7 +35,6 @@ A fully offline Swift-based chatbot app for iOS. This project showcases how to b
 - `OfflineBot.swift` — Static bot response engine
 - `OfflineChatbotApp.swift` — App entry point
 
----
 
 ## 🧪 How to Run
 
@@ -48,7 +43,6 @@ A fully offline Swift-based chatbot app for iOS. This project showcases how to b
 3. Run on iPhone Simulator or real device
 4. Start chatting with the built-in bot
 
----
 
 ## 📌 Use Cases
 
@@ -56,9 +50,3 @@ A fully offline Swift-based chatbot app for iOS. This project showcases how to b
 - Demos for Swift Chat UIs
 - Basic NLP education
 - Lightweight, fast apps with simple interactions
-
----
-
-💡 You can add your own logic in `OfflineBot.swift` to expand the assistant.
-
-Happy Coding! 💬📲
